@@ -99,7 +99,7 @@ section {
 
 
 .newsfeedy_title {
-    font-size: 6em;
+    font-size: 5em;
     margin-left: 2em;
     margin-top: 1.5em;
     margin-bottom: 0em;
@@ -110,7 +110,7 @@ section {
     font-size: 1.5em;
     font-weight: bolder;
     letter-spacing: 0.06em;
-    margin-left: 9.5em;
+    margin-left: 7.7em;
 }
 
 .download {
@@ -123,7 +123,7 @@ section {
     border-radius: 3em;
     font-size: 1.4em;
     letter-spacing: 0.06em;
-    margin-left: 15em;
+    margin-left: 13em;
     margin-top: 3em;
 }
 
@@ -133,11 +133,10 @@ section {
     font-weight: bold;
     letter-spacing: 0.06em;
     margin-left: 40%;
-    margin-top: 2em;
+    margin-top: 2%;
 }
 
-
-
-
-
+.download:hover {
+    background-color: rgb(223, 206, 235);
+}
 
